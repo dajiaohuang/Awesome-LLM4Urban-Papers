@@ -277,9 +277,9 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (AGILE: GISS'2024) **Measuring Geographic Diversity of Foundation Models with a Natural Language–based Geo-guessing Experiment on GPT-4** [[paper](https://doi.org/10.5194/agile-giss-5-38-2024)]
   - (AICCONF'2024) **Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection** [[paper](https://doi.org/10.1145/3660853.3660878)]
   - (ICLR'2024) **GeoLLM: Extracting Geospatial Knowledge from Large Language Models** [[paper](https://openreview.net/forum?id=TqL2xBwXP3)]
-  - (ACM FAccT'2024) **WorldBench: Quantifying Geographic Disparities in LLM Factual Recall** [[paper](https://arxiv.org/abs/2308.12345)]
+  - (ACM FAccT'2024) **WorldBench: Quantifying Geographic Disparities in LLM Factual Recall** [[paper](https://doi.org/10.1145/3630106.3658967)]
   - (arXiv'2023) **Core Building Blocks: Next Gen Geo Spatial GPT Application** [[paper](https://arxiv.org/abs/2310.11029)]
-  - (SIGSPATIAL Workshop GeoAI'2023) **Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam** [[paper](https://arxiv.org/abs/2312.04567)]
+  - (SIGSPATIAL Workshop GeoAI'2023) **Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam** [[paper](https://doi.org/10.1145/3615886.3627745)]
   - (Information Processing & Management'2023) **BB-GeoGPT: A Framework for Learning a Large Language Model for Geographic Information Science** [[paper](https://doi.org/10.1016/j.ipm.2024.103808)]
 - **Geolocation**:
   - (arXiv'2024) **LLMGEO: Benchmarking Large Language Models on Image Geolocation In-the-Wild** [[paper](https://arxiv.org/abs/2405.20363)]
