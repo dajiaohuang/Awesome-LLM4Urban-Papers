@@ -40,7 +40,7 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 
 
 ## Table of Contents
-- [Awesome-LLM4Urban-Papers](#Awesome-LLM4Urban-Papers)
+- [Awesome-LLM4Urban-Papers](#awesome-llm4urban-papers)
   <!-- - [News](#news) -->
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
@@ -51,24 +51,24 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
     - [🔮 LLMs as predictor](#llms-as-predictor-transportation)
     - [🤖 LLMs as agent](#llms-as-agent-transportation)
     - [💡 LLMs as assistant](#llms-as-assistant-transportation)
-  - [🛡️ Public Safety](#-public-safety)
+  - [🛡️ Public Safety](#public-safety)
     - [🔗 LLMs as encoder](#llms-as-encoder-safety)
     - [🔮 LLMs as predictor](#llms-as-predictor-safety)
     - [💡 LLMs as assistant](#llms-as-assistant-safety)
-  - [🚶‍♀️ Urban Mobility](#-urban-mobility)
+  - [🚶‍♀️ Urban Mobility](#urban-mobility)
     - [🔗 LLMs as encoder & enhancer](#llms-as-encoder-enhancer-mobility)
     - [🔮 LLMs as predictor](#llms-as-predictor-mobility)
     - [🤖 LLMs as agent](#llms-as-agent-mobility)
-  - [🌧️ Environmental Monitoring](#-environmental-monitoring)
+  - [🌧️ Environmental Monitoring](#environmental-monitoring)
     - [✨ LLMs as enhancer](#llms-as-enhancer-environmental)
     - [🔮 LLMs as predictor](#llms-as-predictor-environmental)
     - [🤖 LLMs as agent](#llms-as-agent-environmental)
     - [💡 LLMs as assistant](#llms-as-assistant-environmental)
-  - [✈️ Travel Planning](#-travel-planning)
+  - [✈️ Travel Planning](#travel-planning)
     - [🔗 LLMs as encoder](#llms-as-encoder-travel)
     - [🔮 LLMs as predictor](#llms-as-predictor-travel)
     - [🤖 LLMs as agent](#llms-as-agent-travel)
-  - [🏙️ Urban Planning & Development](#-urban-planning--development)
+  - [🏙️ Urban Planning & Development](#urban-planning-development)
     - [🤖 LLMs as agent](#llms-as-agent-planning)
     - [💡 LLMs as assistant](#llms-as-assistant-planning)
   - [⚡ Smart Energy Management](#-smart-energy-management)
@@ -129,6 +129,8 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 - (arXiv'2024) **Leveraging Large Language Models (LLMs) for Traffic Management at Urban Intersections: The Case of Mixed Traffic Scenarios** [[paper](https://arxiv.org/abs/2408.00948)] \<Traffic signal control>
 
 
+<a id="public-safety"></a>
+
 ## 🛡️ Public Safety
 ### 🔗 LLMs as encoder <a id="llms-as-encoder-safety"></a>
 - (arXiv'2024) **Enhancing Traffic Incident Management with Large Language Models: A Hybrid Machine Learning Approach for Severity Classification** [[paper](https://arxiv.org/abs/2403.13547)] \<Traffic accident classification>
@@ -149,6 +151,8 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 - (Int J Disast Risk Re'2024) **Enhancing Emergency Decision-Making with Knowledge Graphs and Large Language Models** [[paper](https://doi.org/10.1016/j.ijdrr.2024.104804)] \<Emergency management>
 - (CAI'2024) **LLM-Assisted Crisis Management: Building Advanced LLM Platforms for Effective Emergency Response and Public Collaboration** [[paper](https://doi.org/10.1109/CAI59869.2024.00159)] \<Emergency management>
 
+
+<a id="urban-mobility"></a>
 
 ## 🚶‍♀️ Urban Mobility
 ### 🔗 LLMs as encoder & enhancer <a id="llms-as-encoder-enhancer-mobility"></a>
@@ -182,6 +186,8 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (arXiv'2024) **Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation** [[paper](https://arxiv.org/abs/2402.14744)] 
   - (arXiv'2024) **MobilityGPT: Enhanced Human Mobility Modeling with a GPT Model** [[paper](https://arxiv.org/abs/2402.03264)] 
 
+<a id="environmental-monitoring"></a>
+
 ## 🌧️ Environmental Monitoring
 ### ✨ LLMs as enhancer <a id="llms-as-enhancer-environmental"></a>
 - (IJGIS'2024) **A Flood Knowledge-Constrained Large Language Model Interactable with GIS: Enhancing Public Risk Perception of Floods** [[paper](https://doi.org/10.1080/13658816.2024.2306167)] \<Flood prediction\>
@@ -205,6 +211,8 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 - (IJDRR'2024) **Enhanced Earthquake Impact Analysis Based on Social Media Texts via Large Language Model** [[paper](https://doi.org/10.1016/j.ijdrr.2024.104574)] \<Earthquake impact analysis\>
 
 
+<a id="travel-planning"></a>
+
 ## ✈️ Travel Planning
 ### 🔗 LLMs as encoder <a id="llms-as-encoder-travel"></a>
 - (arXiv'2024) **A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case** [[paper](https://arxiv.org/abs/2408.03562)] \<Travel planning\>
@@ -223,6 +231,8 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 - (EMNLP'2024) **ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning** [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.104)] \<Travel planning\>
 - (arXiv'2024) **TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners** [[paper](https://arxiv.org/abs/2406.10196)] \<Travel planning\>
 
+
+<a id="urban-planning-development"></a>
 
 ## 🏙️ Urban Planning & Development
 ### 🤖 LLMs as agent <a id="llms-as-agent-planning"></a>
