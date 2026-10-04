@@ -173,10 +173,10 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (CAI'2024) **Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation** [[paper](https://doi.org/10.1109/CAI59869.2024.00277)] 
   - (arXiv'2024) **LAMP: A Language Model on the Map** [[paper](https://arxiv.org/abs/2403.09059)] 
   - (arXiv'2024) **Large language models are zero-shot next location predictors** [[paper](https://arxiv.org/abs/2405.20962)] 
-  - (Comput Environ Urban Syst'2023) **Exploring Large Language Models for Human Mobility Prediction Under Public Events** [[paper](https://doi.org/10.1016/j.compenvurbsys.2024.102153)] 
+  - (Comput Environ Urban Syst'2024) **Exploring Large Language Models for Human Mobility Prediction Under Public Events** [[paper](https://doi.org/10.1016/j.compenvurbsys.2024.102153)]
   - (SIGIR'2024) **Large Language Models for Next Point-of-Interest Recommendation** [[paper](https://doi.org/10.1145/3626772.3657840)] 
 - **OD flow prediction**:
-  - (arXiv'2023) **Harnessing LLMs for Cross-City OD Flow Prediction** [[paper](https://arxiv.org/abs/2409.03937)] 
+  - (arXiv'2024) **Harnessing LLMs for Cross-City OD Flow Prediction** [[paper](https://arxiv.org/abs/2409.03937)]
 
 ### 🤖 LLMs as agent <a id="llms-as-agent-mobility"></a>
 - **Mobility generation**:
@@ -263,7 +263,7 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (arXiv'2024) **S²IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting** [[paper](https://arxiv.org/abs/2403.05798)] 
   - (arXiv'2024) **CALF: Aligning LLMs for Time Series Forecasting via Cross-Modal Fine-Tuning** [[paper](https://arxiv.org/abs/2403.07300)] 
 - **Evaluation**:  
-  - (SIGKDD Explorations Newsletter'202X) **Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities** [[paper](https://arxiv.org/abs/2402.10835)] 
+  - (SIGKDD Explorations Newsletter'2025) **Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities** [[paper](https://arxiv.org/abs/2402.10835)]
 
 ### 🔮 LLMs as predictor <a id="llms-as-predictor-energy"></a>
 - **Energy forecasting**:
@@ -290,7 +290,7 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (ACM FAccT'2024) **WorldBench: Quantifying Geographic Disparities in LLM Factual Recall** [[paper](https://doi.org/10.1145/3630106.3658967)]
   - (arXiv'2023) **Core Building Blocks: Next Gen Geo Spatial GPT Application** [[paper](https://arxiv.org/abs/2310.11029)]
   - (SIGSPATIAL Workshop GeoAI'2023) **Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam** [[paper](https://doi.org/10.1145/3615886.3627745)]
-  - (Information Processing & Management'2023) **BB-GeoGPT: A Framework for Learning a Large Language Model for Geographic Information Science** [[paper](https://doi.org/10.1016/j.ipm.2024.103808)]
+  - (Information Processing & Management'2024) **BB-GeoGPT: A Framework for Learning a Large Language Model for Geographic Information Science** [[paper](https://doi.org/10.1016/j.ipm.2024.103808)]
 - **Geolocation**:
   - (arXiv'2024) **LLMGEO: Benchmarking Large Language Models on Image Geolocation In-the-Wild** [[paper](https://arxiv.org/abs/2405.20363)]
   - (ICML'2024) **GeoReasoner: Geo-Localization with Reasoning in Street Views Using a Large Vision-Language Model** [[paper](https://proceedings.mlr.press/v235/li24ch.html)]
