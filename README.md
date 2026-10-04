@@ -28,13 +28,13 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
 - Various Application Scenarios
 
 <p align='center'>
-<img src="fig/fig2.png" width=40% alt="GNNs as Prefix" />
+<img src="fig/fig2.png" width=40% alt="Urban computing application scenarios" />
 </p>
 
 - Different Roles of LLMs
 
 <p align='center'>
-<img src="fig/fig3.png" width=100% alt="LLMs as Prefix" />
+<img src="fig/fig3.png" width=100% alt="Roles of LLMs in urban computing" />
 </p>
 
 
